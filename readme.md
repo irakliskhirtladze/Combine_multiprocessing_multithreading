@@ -23,5 +23,7 @@ For this task more processes with less threads in each, generally increases requ
 ### Requirements
 
 Python 3.x (recommended 3.9)
+
 PyQt5
+
 requests
